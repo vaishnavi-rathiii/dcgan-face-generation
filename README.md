@@ -9,7 +9,7 @@ Unlike a Vanilla GAN, DCGAN leverages **Convolutional** and **Transposed Convolu
 ## 📸 Sample Results
 
 <p align="center">
-  <img src="results/epoch_5.png" width="700">
+  <img src="results/DCGAN_Results.png" width="700">
 </p>
 
 > Sample faces generated after **5 training epochs**.
