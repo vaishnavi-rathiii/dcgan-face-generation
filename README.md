@@ -1,5 +1,9 @@
 # 🚀 DCGAN Face Generation using PyTorch
 
+## 📝 Note
+
+> **Note:** The complete training notebook (`DCGAN.ipynb`) is not included in this repository because the notebook file exceeded GitHub's size limit after training and saving outputs. This repository showcases the project overview, model architecture, results, and implementation details.
+
 A PyTorch implementation of **Deep Convolutional Generative Adversarial Networks (DCGANs)** trained on the **CelebA dataset** to generate synthetic human face images.
 
 Unlike a Vanilla GAN, DCGAN leverages **Convolutional** and **Transposed Convolutional** layers, enabling the model to preserve spatial information and generate more realistic facial structures.
